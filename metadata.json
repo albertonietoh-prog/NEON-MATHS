@@ -1,0 +1,5 @@
+{
+  "name": "Neon Pac-Man AI",
+  "description": "A retro-futuristic Pac-Man clone featuring a custom game engine and AI-generated levels using Google Gemini.",
+  "requestFramePermissions": []
+}
